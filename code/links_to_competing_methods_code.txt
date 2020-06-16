@@ -1,0 +1,3 @@
+- CPM https://leidenalg.readthedocs.io/en/stable/install.html
+- GJA http://deim.urv.cat/~sergio.gomez/radatools.php
+- CPMap https://github.com/pouyaesm/signed-community-detection
