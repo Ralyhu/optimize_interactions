@@ -1,5 +1,12 @@
 # In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints
 
+## Overview
+
+This project is developed as part of the following research paper:
+
+D. Mandaglio, A. Tagarelli, F. Gullo (2020). *In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints.* In Procs. of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, August 23rd - August 27th, 2020,  CA, USA. DOI: [https://doi.org/10.1145/3394486.3403190](https://doi.org/10.1145/3394486.3403190)
+
+Please cite the above paper in any research publication you may produce using this code or data/analysis derived from it.
 
 
 ## Folders
