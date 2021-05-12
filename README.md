@@ -16,7 +16,7 @@ Please cite the above paper in any research publication you may produce using th
 
 ## Usage
 
-From the folder 'optimize_interactions/', run the following command:
+From the folder 'optimize_interactions/code', run the following command:
 ```bash
 run_offline_algorithm.py [-h] -d DATASET -a {MIL,D-MIL} [-s SEED]
                                 [-r RUNS] [--hill_climbing [HILL_CLIMBING]]
